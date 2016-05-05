@@ -1,5 +1,5 @@
 ---
 layout: index
 companyname: Insert Company Name Here
-title: Index Page
+title: Insert Company Name Here | Now. Look. Hear. 
 ---
