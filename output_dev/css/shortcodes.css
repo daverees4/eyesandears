@@ -10,14 +10,7 @@
 	margin-bottom: 0px !important;
 }
 .hero-section-wrap {
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-    filter: alpha(opacity=0);
-    height: 0px;
-    transition: height 0.85s cubic-bezier(0.725, 0.000, 0.000, 0.995);
-    -moz-transition: height 0.85s cubic-bezier(0.725, 0.000, 0.000, 0.995);
-    -webkit-transition: height 0.85s cubic-bezier(0.725, 0.000, 0.000, 0.995);
-    -o-transition: height 0.85s cubic-bezier(0.725, 0.000, 0.000, 0.995);
+	opacity: 1;
 }
 .hero-section-inner-wrap {
 	display: table;
